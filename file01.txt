@@ -1,2 +1,2 @@
-updata count=15
+update count=10
 
